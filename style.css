@@ -32,3 +32,17 @@ a {
 a:hover {
   color: #4E2D3C;
 }
+h1{ 
+color: #2F1B25;
+font-size: 60 px;
+text-align: center;
+background-color: #F3F6F7;
+text-decoration-color: #2F1B25;
+text-decoration-style: solid;
+text-decoration-thickness: 5%
+}
+body {
+  background-color: #E2CAD3;
+}
+body {
+  background-color: #F3F6F7
